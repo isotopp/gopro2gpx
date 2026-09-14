@@ -25,7 +25,7 @@ gopro2gpx-gui = "gopro2gpx.gui.qt_app:main"
 
 [dependency-groups]
 dev = [
-  "pytest>=8.0.0",
+  "pytest>=9.0.3",
 ]
 
 [tool.hatch.build.targets.wheel]
