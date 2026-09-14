@@ -7,7 +7,7 @@ name = "gopro2gpx"
 version = "0.3"
 description = "Extract GoPro GPS metadata from MP4/GPMF and export GPX, KML, and CSV"
 readme = "README.md"
-requires-python = ">=3.8"
+requires-python = ">=3.10"
 license = { text = "GPL-3.0-or-later" }
 authors = [
   { name = "Juan M. Casillas" },
